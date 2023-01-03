@@ -2,6 +2,8 @@
 <h3 align="center">A enthusiastic developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
 
+- 🔭 I’m currently working with **Capita**
+
 - 🌱 I’m currently learning **Python, Linux Administration and AWS**
 
 - 👯 I’m looking to collaborate on **GitHub**
