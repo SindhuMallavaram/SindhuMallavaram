@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sindhu Mallavaram</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A enthusiastic developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
 
 - 🌱 I’m currently learning **Python, Linux Administration and AWS**
