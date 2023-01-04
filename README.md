@@ -1,4 +1,7 @@
-[![MasterHead](https://cdn.dribbble.com/users/32512/screenshots/5820919/media/2d9a3de8f5da65ef9dac5295c9883e17.gif)](https://github.com/SindhuMallavaram)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="600" height="300"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Sindhu Mallavaram</h1>
 <h3 align="center">A enthusiastic developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
