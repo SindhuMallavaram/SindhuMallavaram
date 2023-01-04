@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="600" height="300"/>
-</div> -->
+</div>
 
 <h1 align="center">Hi 👋, I'm Sindhu Mallavaram</h1>
 <h3 align="center">A enthusiastic developer</h3>
